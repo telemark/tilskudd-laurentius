@@ -47,6 +47,6 @@
     "uuid": "2.0.3",
     "wreck": "10.0.0",
     "p360": "2.0.1",
-    "tfk-arkiv-metadatagenerator": "2.0.10"
+    "tfk-arkiv-metadatagenerator": "2.0.11"
   }
 }
