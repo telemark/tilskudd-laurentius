@@ -1,7 +1,7 @@
 {
-  "name": "tfk-laurentius",
-  "version": "2.0.2",
-  "description": "Arkiv",
+  "name": "tilskudd-laurentius",
+  "version": "1.0.0",
+  "description": "Arkiverer ting",
   "license": "MIT",
   "author": {
     "name": "Jonas Enge",
@@ -30,10 +30,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/telemark/tfk-laurentius.git"
+    "url": "http://github.com/telemark/tilskudd-laurentius.git"
   },
   "bugs": {
-    "url": "http://github.com/telemark/tfk-laurentius/issues"
+    "url": "http://github.com/telemark/tilskudd-laurentius/issues"
   },
   "devDependencies": {
     "coveralls": "2.11.15",
