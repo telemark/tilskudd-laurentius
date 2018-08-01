@@ -52,7 +52,7 @@
     "p360": "3.1.1",
     "streamifier": "0.1.1",
     "tfk-arkiv-metadatagenerator": "2.0.21",
-    "uuid": "3.2.1",
+    "uuid": "3.3.2",
     "wreck": "14.0.2"
   }
 }
